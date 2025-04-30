@@ -1,0 +1,10 @@
+# requirements.txt for Time Management Agent
+
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+langchain
+langchain-google-genai
+google-generativeai
+uuid
